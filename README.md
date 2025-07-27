@@ -132,7 +132,7 @@ Task_Management_system/
 - **Filtering**: Filter tasks by status (All, Pending, Completed)
 - **Search**: Find tasks by searching title or description content
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### User Model
 ```python
@@ -223,7 +223,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL')
 - **Dark Mode**: Theme switching capability
 - **Mobile App**: React Native or Flutter mobile version
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
